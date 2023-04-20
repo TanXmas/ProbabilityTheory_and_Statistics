@@ -144,7 +144,7 @@
       
 <table>
   <tr>
-    <td colspan=3><a href=""><b>Случайные величины. Непрерывная случайная величина</b></a></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_03_Continuous%20random%20variable.ipynb"><b>Случайные величины. Непрерывная случайная величина</b></a></td>
   </tr>
     <tr>
     <td rowspan=6><b>Непрерывная случайная величина</b></td>
