@@ -243,7 +243,7 @@
 
 <table>
   <tr>
-    <td colspan=3><a href=""><b>Выборочный метод</b></a></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_01_Sampling%20method.ipynb"><b>Выборочный метод</b></a></td>
   </tr>
   <tr>
     <td rowspan=3><b>Генеральная и выборочная совокупности</b></td>
