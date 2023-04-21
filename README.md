@@ -429,8 +429,6 @@
   </tr>
   <tr>
     <td>Если генеральная дисперсия неизвестна</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Идея статистического вывода, p-уровень значимости</td>
@@ -476,5 +474,24 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_07_Distribution%20law.ipynb"><b>Гипотеза о законе распределения генеральной совокупности</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Критерий согласия Пирсона</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Предполагаемый закон распределения</b></td>
+    <td>Графический способ</td>
+    <td href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">QQ-plot</td>
+  </tr>
+  <tr>
+    <td><b>Аналитические признаки (для нормального распределения)</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
