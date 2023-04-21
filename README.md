@@ -344,7 +344,43 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb"><b>Нормальное распределение</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Закон нормального распределения</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Z-стандартизация</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Центральная предельная теорема (CLT)</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4><b>Проверка распределения на нормальность</b></td>
+    <td>QQ-plot</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Тест Шапиро-Уилко</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Тест Колмогорова-Смирнова</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Тест Манн-Уитней</td>
+    <td></td>
+  </tr>
+  </table>
 
 
 
