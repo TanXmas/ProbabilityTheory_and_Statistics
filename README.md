@@ -204,7 +204,7 @@
 
 <table>
   <tr>
-    <td colspan=3><a href=""><b>Система двух случайных величин</b></a></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_04_System%20of%20two%20random%20variables.ipynb"><b>Система двух случайных величин</b></a></td>
   </tr>
   <tr>
     <td rowspan=3><b>Независимые случайные величины</b></td>
