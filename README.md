@@ -486,7 +486,7 @@
   <tr>
     <td><b>Предполагаемый закон распределения</b></td>
     <td>Графический способ</td>
-    <td href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">QQ-plot</td>
+    <td><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">QQ-plot</a></td>
   </tr>
   <tr>
     <td><b>Аналитические признаки (для нормального распределения)</b></td>
