@@ -87,6 +87,7 @@
   </tr>
 </table>
 
+<br><br>
 
 <table>
   <tr>
@@ -140,7 +141,8 @@
   </tr>
 </table>
 
-      
+ <br><br>
+
 <table>
   <tr>
     <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_03_Continuous%20random%20variable.ipynb"><b>Случайные величины. Непрерывная случайная величина</b></a></td>
@@ -199,6 +201,7 @@
   </tr>
 </table>
 
+<br><br>
 
 <table>
   <tr>
@@ -238,6 +241,7 @@
   </tr>
 </table>
 
+<br><br>
 
 # Математическая статистика
 
@@ -281,6 +285,8 @@
     <td></td>
   </tr>
 </table>
+
+<br><br>
 
 <table>
   <tr>
@@ -344,6 +350,8 @@
   </tr>
 </table>
 
+<br><br>
+
 <table>
   <tr>
     <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb"><b>Нормальное распределение</b></a></td>
@@ -374,6 +382,8 @@
     <td>Тест Манн-Уитней</td>
   </tr>
 </table>
+
+<br><br>
 
 <table>
   <tr>
@@ -413,6 +423,8 @@
   </tr>
 </table>
 
+<br><br>
+
 <table>
   <tr>
     <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_05_Statistical%20hypotheses.ipynb"><b>Статистические гипотезы. Гипотезы о генеральном распределении</b></a></td>
@@ -446,6 +458,8 @@
   </tr>
 </table>
 
+<br><br>
+
 <table>
   <tr>
     <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_06_Statistical%20hypotheses.ipynb"><b>Статистические гипотезы. Гипотезы о двух генеральных распределениях</b></a></td>
@@ -474,6 +488,8 @@
   </tr>
 </table>
 
+<br><br>
+
 <table>
   <tr>
     <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_07_Distribution%20law.ipynb"><b>Гипотеза о законе распределения генеральной совокупности</b></a></td>
@@ -494,4 +510,9 @@
     <td></td>
   </tr>
 </table>
+
+<br><br>
+
+
+
 
