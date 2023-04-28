@@ -546,5 +546,49 @@
 
 <br><br>
 
+<table>
+  <tr>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_11_Linear%20regression.ipynb"><b>Линейная регрессия</b></a></td>
+  </tr>
+  <tr>
+    <td rowspan=5><b>Уравнение линейной регрессии</b></td>
+    <td>Диаграмма рассеяния</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Метод наименьших квадратов</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Матричный метод</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Метод градиентного спуска</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Машинное обучение в Python (scikit-learn)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4><b>Показатели влияния фактора на результат</b></td>
+    <td>Линейный коэффициент корреляции</td>
+    <td>Выборочный линейный коэффициент парной корреляции Пирсона</td>
+  </tr>
+  <tr>
+    <td>Коэффициент детерминации</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Коэффициент средней эластичности</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Бета-коэффициент</td>
+    <td></td>
+  </tr>
+</table>
 
+<br><br>
 
