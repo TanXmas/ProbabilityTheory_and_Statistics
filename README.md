@@ -530,13 +530,21 @@
     <td></td>
     <td></td>
   </tr>
-
-
   <tr>
-    <td><b></b></td>
-    <td></td>
+    <td rowspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Grouping%20data.%20Combination%20grouping.ipynb"><b>Комбинационная группировка</b></a></td>
+    <td rowspan=2>Эмпирический коэффициент детерминации</td>
+    <td>Эмпирическое корреляционное отношение</td>
+  </tr>
+  <tr>
+    <td>Корреляционная зависимость и причинно-следственная связь</td>
+  </tr>
+  <tr>
+    <td>Поле корреляции и эмпирические линии регрессии</td>
     <td></td>
   </tr>
 </table>
+
+<br><br>
+
 
 
