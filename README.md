@@ -513,6 +513,30 @@
 
 <br><br>
 
+<table>
+  <tr>
+    <td colspan=3><b>Группировка данных</b></td>
+  </tr>
+  <tr>
+    <td rowspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Structural%20grouping.ipynb"><b>Типологическая и структурная группировки</b></a></td>
+    <td rowspan=2>Общая, групповые, внутригрупповая и межгрупповая дисперсия</td>
+    <td>Эмпирический коэффициент детерминации</td>
+  </tr>
+  <tr>
+    <td>Эмпирическое корреляционное отношение</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Grouping%20data.%20Analytical%20grouping.ipynb"><b>Аналитическая группировка</b></a></td>
+    <td></td>
+    <td></td>
+  </tr>
 
+
+  <tr>
+    <td><b></b></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
