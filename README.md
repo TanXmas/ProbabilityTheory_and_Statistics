@@ -357,8 +357,11 @@
     <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb"><b>Нормальное распределение</b></a></td>
   </tr>
   <tr>
-    <td><b>Закон нормального распределения</b></td>
-    <td></td>
+    <td rowspan=2><b>Закон нормального распределения</b></td>
+    <td>Правило трех сигм</td>
+  </tr>
+  <tr>
+    <td>Свойства нормального распределения</td>
   </tr>
   <tr>
     <td><b>Z-стандартизация</b></td>
