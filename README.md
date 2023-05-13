@@ -522,32 +522,63 @@
 
 <table>
   <tr>
-    <td colspan=3><b>Группировка данных</b></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Structural%20grouping.ipynb"><b>Группировка данных. Корреляционный анализ</b></a></td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Structural%20grouping.ipynb"><b>Типологическая и структурная группировки</b></a></td>
-    <td rowspan=2>Общая, групповые, внутригрупповая и межгрупповая дисперсия</td>
+    <td><b>Общая, групповые, внутригрупповая и межгрупповая дисперсия</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=3><b>Эмпирические показатели</b></td>
     <td>Эмпирический коэффициент детерминации</td>
-  </tr>
-  <tr>
-    <td>Эмпирическое корреляционное отношение</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Grouping%20data.%20Analytical%20grouping.ipynb"><b>Аналитическая группировка</b></a></td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Grouping%20data.%20Combination%20grouping.ipynb"><b>Комбинационная группировка</b></a></td>
-    <td rowspan=2>Эмпирический коэффициент детерминации</td>
     <td>Эмпирическое корреляционное отношение</td>
-  </tr>
-  <tr>
-    <td>Корреляционная зависимость и причинно-следственная связь</td>
+    <td></td>
   </tr>
   <tr>
     <td>Поле корреляции и эмпирические линии регрессии</td>
     <td></td>
+  </tr>
+  <tr>
+    <td><b>Типологическая и структурная группировки</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Аналитическая группировка</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Комбинационная группировка</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Корреляционная зависимость и причинно-следственная связь</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=5><b>Линейный коэффициент корреляции</b></td>
+    <td>Ковариация / Корреляционный момент</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>Коэффициент корреляции</td>
+    <td>Коэффициент корреляции Пирсона</td>
+  </tr>
+  <tr>
+    <td>Коэффициент корреляции Спирмена</td>
+  </tr>
+  <tr>
+    <td>Условия применимости коэффициентов корреляции</td>
+  </tr>
+  <tr>
+    <td>Интерпретация коэффициента корреляции</td>
   </tr>
 </table>
 
