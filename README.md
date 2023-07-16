@@ -594,7 +594,7 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Linear%20regression.ipynb"><b>Парная (однофакторная) линейная регрессия</b></a></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Linear%20regression.ipynb"><b>Регрессионный анализ. Парная (однофакторная) линейная регрессия</b></a></td>
   </tr>
   <tr>
     <td rowspan=5><b>Уравнение линейной регрессии</b></td>
@@ -695,3 +695,30 @@
 
 <br><br>
 
+<table>
+  <tr>
+    <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Nonlinear%20regression.ipynb"><b>Регрессионный анализ. Нелинейная регрессия</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Экспоненциальная регрессия</b></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td><b>Гиперболическая регрессия</b></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td><b>Степенная регрессия</b></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td><b>Параболическая регрессия</b></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td><b>Логарифмическая регрессия</b></td>
+    <td></td>
+  </tr>
+</table>
+
+<br><br>
