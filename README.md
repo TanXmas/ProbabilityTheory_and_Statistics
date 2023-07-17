@@ -697,27 +697,39 @@
 
 <table>
   <tr>
-    <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Nonlinear%20regression.ipynb"><b>Регрессионный анализ. Нелинейная регрессия</b></a></td>
+    <td colspan=1><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Nonlinear%20regression.ipynb"><b>Регрессионный анализ. Нелинейная регрессия</b></a></td>
   </tr>
   <tr>
     <td><b>Экспоненциальная регрессия</b></td>
-    <td></td>
   </tr>
     <tr>
     <td><b>Гиперболическая регрессия</b></td>
-    <td></td>
   </tr>
     <tr>
     <td><b>Степенная регрессия</b></td>
-    <td></td>
   </tr>
     <tr>
     <td><b>Параболическая регрессия</b></td>
-    <td></td>
   </tr>
     <tr>
     <td><b>Логарифмическая регрессия</b></td>
-    <td></td>
+  </tr>
+</table>
+
+<br><br>
+
+<table>
+  <tr>
+    <td colspan=1><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_11_RankCorrelationCoefficients.ipynb"><b>Коэффициенты ранговой корреляции</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Коэффициент ранговой корреляции Спирмена</b></td>
+  </tr>
+    <tr>
+    <td><b>Ранговый коэффициент корреляции Кендалла</b></td>
+  </tr>
+    <tr>
+    <td><b>Коэффициент корреляции Фехнера</b></td>
   </tr>
 </table>
 
