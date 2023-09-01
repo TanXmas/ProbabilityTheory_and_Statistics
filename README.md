@@ -14,7 +14,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan=4><b>Определение вероятности<b></td>
+    <td rowspan=4><b>Определение вероятности</b></td>
     <td>Классическое определение вероятности</td>
     <td>Классическое определение вероятности на языке теории множеств</td>
   </tr>
@@ -30,7 +30,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan=3><b>Теорема сложения вероятностей<b></td>
+    <td rowspan=3><b>Теорема сложения вероятностей</b></td>
     <td>Для противоположных событий</td>
     <td></td>
   </tr>
@@ -43,7 +43,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan=2><b>Теорема умножения вероятностей<b></td>
+    <td rowspan=2><b>Теорема умножения вероятностей</b></td>
     <td>Условная вероятность</td>
     <td></td>
   </tr>
@@ -52,7 +52,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan=2><b>Следствия теорем сложения и умножения<b></td>
+    <td rowspan=2><b>Следствия теорем сложения и умножения</b></td>
     <td>Формула полной вероятности</td>
     <td></td>
   </tr>
@@ -61,7 +61,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan=6><b>Повторение испытаний<b></td>
+    <td rowspan=6><b>Повторение испытаний</b></td>
     <td>Независимые испытания</td>
     <td></td>
   </tr>
@@ -530,7 +530,7 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Structural%20grouping.ipynb"><b>Группировка данных. Корреляционный анализ</b></a></td>
+    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Correlation%20analysis.ipynb"><b>Группировка данных. Корреляционный анализ</b></a></td>
   </tr>
   <tr>
     <td><b>Общая, групповые, внутригрупповая и межгрупповая дисперсия</b></td>
