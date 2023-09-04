@@ -2,10 +2,12 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_01_Random%20events.ipynb"><b>Случайные события<b><a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_01_Random%20events.ipynb">
+        <b>1. Случайные события</b></a></td>
   </tr>
   <tr>
-    <td rowspan=2><b>Основные понятия теории вероятности<b></td>
+    <td rowspan=2><b>Основные понятия теории вероятности</b></td>
     <td>Случайный эксперимен</td>
     <td></td>
   </tr>
@@ -91,7 +93,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_02_Random%20values.%20Discrete%20random%20value.ipynb"><b>Случайные величины. Дискретная случайная величина</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_02_Random%20values.%20Discrete%20random%20value.ipynb">
+        <b>2. Случайные величины. Дискретная случайная величина</b></a></td>
   </tr>
   <tr>
     <td rowspan=7><b>Дискретная случайная величина</b></td>
@@ -145,7 +149,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_03_Continuous%20random%20variable.ipynb"><b>Случайные величины. Непрерывная случайная величина</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_03_Continuous%20random%20variable.ipynb">
+        <b>3. Случайные величины. Непрерывная случайная величина</b></a></td>
   </tr>
     <tr>
     <td rowspan=6><b>Непрерывная случайная величина</b></td>
@@ -205,7 +211,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_04_System%20of%20two%20random%20variables.ipynb"><b>Система двух случайных величин</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/PT_04_System%20of%20two%20random%20variables.ipynb">
+        <b>4. Система двух случайных величин</b></a></td>
   </tr>
   <tr>
     <td rowspan=3><b>Независимые случайные величины</b></td>
@@ -247,7 +255,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_01_Sampling%20method.ipynb"><b>Выборочный метод</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_01_Sampling%20method.ipynb">
+        <b>1. Выборочный метод</b></a></td>
   </tr>
   <tr>
     <td rowspan=3><b>Генеральная и выборочная совокупности</b></td>
@@ -290,7 +300,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_02_Point%20estimates.ipynb"><b>Точечные оценки параметров распределения</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_02_Point%20estimates.ipynb">
+        <b>2. Точечные оценки параметров распределения</b></a></td>
   </tr>
   <tr>
     <td rowspan=4><b>Меры центральной тенденции</b></td>
@@ -354,7 +366,9 @@
 
 <table>
   <tr>
-    <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb"><b>Нормальное распределение</b></a></td>
+    <td colspan=2>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_03_Normal%20distribution.ipynb">
+        <b>3. Нормальное распределение</b></a></td>
   </tr>
   <tr>
     <td rowspan=2><b>Закон нормального распределения</b></td>
@@ -390,7 +404,9 @@
 
 <table>
   <tr>
-    <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_04_Interval%20estimates.ipynb"><b>Интервальные оценки параметров распределения</b></a></td>
+    <td colspan=2>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_04_Interval%20estimates.ipynb">
+        <b>4. Интервальные оценки параметров распределения</b></a></td>
   </tr>
   <tr>
     <td><b>Точечные и интервальные оценки</b></td>
@@ -434,7 +450,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_05_Statistical%20hypotheses.ipynb"><b>Статистические гипотезы. Гипотезы о генеральном распределении</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_05_Statistical%20hypotheses.ipynb">
+        <b>5. Статистические гипотезы. Гипотезы о генеральном распределении</b></a></td>
   </tr>
   <tr>
     <td><b>Проверки статистической гипотезы</b></td>
@@ -469,7 +487,9 @@
 
 <table>
   <tr>
-    <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_06_Statistical%20hypotheses.ipynb"><b>Статистические гипотезы. Гипотезы о двух генеральных распределениях</b></a></td>
+    <td colspan=2>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_06_Statistical%20hypotheses.ipynb">
+        <b>6. Статистические гипотезы. Гипотезы о двух генеральных распределениях</b></a></td>
   </tr>
   <tr>
     <td rowspan=4><b>Гипотеза о равенстве генеральных средних двух распределений</b></td>
@@ -499,7 +519,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_07_Distribution%20law.ipynb"><b>Гипотеза о законе распределения генеральной совокупности</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_07_Distribution%20law.ipynb">
+        <b>7. Гипотеза о законе распределения генеральной совокупности</b></a></td>
   </tr>
   <tr>
     <td><b>Критерий согласия Пирсона</b></td>
@@ -530,7 +552,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Correlation%20analysis.ipynb"><b>Группировка данных. Корреляционный анализ</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_08_Grouping%20data.%20Correlation%20analysis.ipynb">
+        <b>8. Группировка данных. Корреляционный анализ</b></a></td>
   </tr>
   <tr>
     <td><b>Общая, групповые, внутригрупповая и межгрупповая дисперсия</b></td>
@@ -588,6 +612,34 @@
   <tr>
     <td>Интерпретация коэффициента корреляции</td>
   </tr>
+</table>
+
+<br><br>
+
+<table>
+    <tr>
+        <td colspan=2><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Analysis%20Of%20Variance.ipynb">
+        <b>9. Дисперсионный анализ </b></a></td>
+    </tr>
+    <tr>
+        <td rowspan=1><b>Однофакторный дисперсионный анализ (ANOVA)</b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan=2><b>Множественные сравнения в ANOVA</b></td>
+        <td>Поправка Бонферрони</td>
+    </tr>
+    <tr>
+        <td>Критерий Тьюки</td>
+    </tr>
+    <tr>
+        <td rowspan=1><b>Многофакторный дисперсионный анализ</b></td>
+        <td>Двухфакторный дисперсионный анализ</td>
+    </tr>
+    <tr>
+        <td rowspan=1><b>Условия применимости дисперсионного анализа</b></td>
+        <td></td>
+    </tr>
 </table>
 
 <br><br>
