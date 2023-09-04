@@ -646,7 +646,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_09_Linear%20regression.ipynb"><b>Регрессионный анализ. Парная (однофакторная) линейная регрессия</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Linear%20regression.ipynb">
+        <b>10. Регрессионный анализ. Парная (однофакторная) линейная регрессия</b></a></td>
   </tr>
   <tr>
     <td rowspan=5><b>Уравнение линейной регрессии</b></td>
