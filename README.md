@@ -751,7 +751,9 @@
 
 <table>
   <tr>
-    <td colspan=1><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_10_Nonlinear%20regression.ipynb"><b>Регрессионный анализ. Нелинейная регрессия</b></a></td>
+    <td colspan=1>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_11_Nonlinear%20regression.ipynb">
+        <b>11. Регрессионный анализ. Нелинейная регрессия</b></a></td>
   </tr>
   <tr>
     <td><b>Экспоненциальная регрессия</b></td>
@@ -774,7 +776,9 @@
 
 <table>
   <tr>
-    <td colspan=1><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_11_RankCorrelationCoefficients.ipynb"><b>Коэффициенты ранговой корреляции</b></a></td>
+    <td colspan=1>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_12_RankCorrelationCoefficients.ipynb">
+        <b>12. Коэффициенты ранговой корреляции</b></a></td>
   </tr>
   <tr>
     <td><b>Коэффициент ранговой корреляции Спирмена</b></td>
@@ -791,7 +795,9 @@
 
 <table>
   <tr>
-    <td colspan=3><a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_12_MultipleRegressionModel.ipynb"><b>Модель множественной регрессии</b></a></td>
+    <td colspan=3>
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_13_MultipleRegressionModel.ipynb">
+        <b>13. Модель множественной регрессии</b></a></td>
   </tr>
   <tr>
     <td><b>Уравнение множественной линейной регрессии</b></td>
