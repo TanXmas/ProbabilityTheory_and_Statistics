@@ -883,7 +883,7 @@
 <table>
   <tr>
     <td colspan=3>
-        <a href="">
+        <a href="https://github.com/TanXmas/ProbabilityTheory_and_Statistics/blob/main/St_14_RegressionAnalysisInDS.ipynb">
         <b>14. Регрессионный анализ в науке о данных</b></a></td>
   </tr>
   <tr>
